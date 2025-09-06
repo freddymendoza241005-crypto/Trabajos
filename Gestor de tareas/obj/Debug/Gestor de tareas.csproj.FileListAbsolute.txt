@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\Gestor de tareas\Gestor de tareas\bin\Debug\Gestor de tareas.exe.config
+C:\Users\LENOVO\source\repos\Gestor de tareas\Gestor de tareas\bin\Debug\Gestor de tareas.exe
+C:\Users\LENOVO\source\repos\Gestor de tareas\Gestor de tareas\bin\Debug\Gestor de tareas.pdb
+C:\Users\LENOVO\source\repos\Gestor de tareas\Gestor de tareas\obj\Debug\Gestor de tareas.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Gestor de tareas\Gestor de tareas\obj\Debug\Gestor_de_tareas.Form1.resources
+C:\Users\LENOVO\source\repos\Gestor de tareas\Gestor de tareas\obj\Debug\Gestor_de_tareas.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Gestor de tareas\Gestor de tareas\obj\Debug\Gestor de tareas.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Gestor de tareas\Gestor de tareas\obj\Debug\Gestor de tareas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Gestor de tareas\Gestor de tareas\obj\Debug\Gestor de tareas.exe
+C:\Users\LENOVO\source\repos\Gestor de tareas\Gestor de tareas\obj\Debug\Gestor de tareas.pdb
+C:\Users\LENOVO\source\repos\Gestor de tareas\Gestor de tareas\obj\Debug\Gestor de tareas.exe.config
