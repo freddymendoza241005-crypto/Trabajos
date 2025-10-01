@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Visor de imagenes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA4CF1A-6356-4BA3-8B3C-9A5ECCC68F11}|Visor de imagenes\\Visor de imagenes.csproj|C:\\Users\\LENOVO\\source\\repos\\Visor de imagenes\\visor de imagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAA4CF1A-6356-4BA3-8B3C-9A5ECCC68F11}|Visor de imagenes\\Visor de imagenes.csproj|solutionrelative:visor de imagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA4CF1A-6356-4BA3-8B3C-9A5ECCC68F11}|Visor de imagenes\\Visor de imagenes.csproj|c:\\users\\lenovo\\source\\repos\\visor de imagenes\\visor de imagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA4CF1A-6356-4BA3-8B3C-9A5ECCC68F11}|Visor de imagenes\\Visor de imagenes.csproj|solutionrelative:visor de imagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA4CF1A-6356-4BA3-8B3C-9A5ECCC68F11}|Visor de imagenes\\Visor de imagenes.csproj|C:\\Users\\LENOVO\\source\\repos\\Visor de imagenes\\visor de imagenes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA4CF1A-6356-4BA3-8B3C-9A5ECCC68F11}|Visor de imagenes\\Visor de imagenes.csproj|solutionrelative:visor de imagenes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Visor de imagenes\\Visor de imagenes\\Form1.cs",
+              "RelativeDocumentMoniker": "Visor de imagenes\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Visor de imagenes\\Visor de imagenes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Visor de imagenes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T00:50:56.829Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Visor de imagenes\\Visor de imagenes\\Form1.cs",
+              "RelativeDocumentMoniker": "Visor de imagenes\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Visor de imagenes\\Visor de imagenes\\Form1.cs",
+              "RelativeToolTip": "Visor de imagenes\\Form1.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAAAGoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T22:37:16.784Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Visor de imagenes\\Visor de imagenes\\Program.cs",
+              "RelativeDocumentMoniker": "Visor de imagenes\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Visor de imagenes\\Visor de imagenes\\Program.cs",
+              "RelativeToolTip": "Visor de imagenes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:52:20.211Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
